@@ -1,20 +1,28 @@
 {
   "clientes": [
     {
-      "nombre": "sadasda",
-      "empresa": "asdsad",
-      "email": "asdsad@sadasd.com",
-      "telefono": "1231",
-      "notas": "",
+      "nombre": "Alejandro",
+      "empresa": "ASA",
+      "email": "ale@gmail.com",
+      "telefono": "12345",
+      "notas": "Sucursal CBA",
       "id": 1
     },
     {
-      "nombre": "asdsad",
-      "empresa": "sadsa",
-      "email": "asdas@dsadsad.com",
-      "telefono": "123123",
+      "nombre": "Juan ",
+      "empresa": "JSA",
+      "email": "juan@gmail.com",
+      "telefono": "123456789",
       "notas": "",
       "id": 2
+    },
+    {
+      "nombre": "Nicolas",
+      "empresa": "NISA",
+      "email": "nico@gmail.com",
+      "telefono": "",
+      "notas": "",
+      "id": 3
     }
   ]
 }
